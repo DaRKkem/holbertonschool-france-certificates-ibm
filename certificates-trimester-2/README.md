@@ -1,2 +1,2 @@
-EN ATTENTE DES SERVEURS, ERREUR 500
-SUR LE SITE POUR TROUVER LES CERTIFICATS
+waiting for servers, error 500.
+also wainting for the 2nd credential to appear in the profil.
