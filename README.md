@@ -1,4 +1,5 @@
 # France Certificates — IBM
+![IBM](https://img.shields.io/badge/IBM-Certificates-blue) ![License](https://img.shields.io/badge/License-Holberton-yellow)
 
 Collection of IBM-issued certificates earned throughout the Holberton School program, organized by trimester.
 
@@ -14,10 +15,14 @@ Collection of IBM-issued certificates earned throughout the Holberton School pro
 
 IBM technologies, professional certifications, cloud computing, AI, data science.
 
-## Repository
+---
 
-GitHub repo: holbertonschool-france-certificates-ibm
+Repository
+
+GitHub repository: holbertonschool-france-certificates-ibm
 
 ---
 
-**Author:** Damien Rossi - **[DaRKkem](https://github.com/DaRKkem)** — Holberton School, cohort C28, Auvergne-Rhone-Alpes
+Author
+
+Damien Rossi - DaRKkem — Holberton School, cohort C28, Auvergne-Rhône-Alpes
